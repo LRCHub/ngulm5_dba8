@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "This Game Needs Guns",
+  "base_artist": "She is Legend",
+  "createdAt": "2026-02-18T13:05:13.476988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Game Needs Guns",
+      "artist": "She is Legend",
+      "has_synced": true,
+      "path": "select/01_This_Game_Needs_Guns_She_is_Legend.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Game Needs Guns",
+      "artist": "She is Legend、麻枝准",
+      "has_synced": true,
+      "path": "select/02_This_Game_Needs_Guns_She_is_Legend、麻枝准.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Game Needs Guns",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/pl_01_This_Game_Needs_Guns_She_is_Legend.txt"
+    }
+  ]
+}
